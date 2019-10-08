@@ -48,8 +48,9 @@
 .ballOn__title,
 .quarter__title {
   text-transform: uppercase;
-  font-size: 3rem;
+  font-size: 2.6rem;
   padding: 2rem;
+  width: 100%;
 }
 
 .home__score,
@@ -119,4 +120,9 @@
 .awayButtons__fieldGoal {
   margin: 1rem;
   border-radius: 4px;
+}
+
+.arrow {
+  padding-top: 5%;
+  margin-top: 25px;
 }
